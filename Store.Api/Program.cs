@@ -3,6 +3,9 @@
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
+//GET endpoint /games
+
+
 // what happen when we start the application
 app.MapGet("/", () => "Hello World!");
 app.Run();
