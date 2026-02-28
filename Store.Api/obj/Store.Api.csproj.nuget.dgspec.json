@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\clean-architecture\\Store.Api\\Store.Api.csproj": {}
+    "d:\\projects\\clean-architecture\\Store.Api\\Store.Api.csproj": {}
   },
   "projects": {
-    "D:\\projects\\clean-architecture\\Store.Api\\Store.Api.csproj": {
+    "d:\\projects\\clean-architecture\\Store.Api\\Store.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\clean-architecture\\Store.Api\\Store.Api.csproj",
+        "projectUniqueName": "d:\\projects\\clean-architecture\\Store.Api\\Store.Api.csproj",
         "projectName": "Store.Api",
-        "projectPath": "D:\\projects\\clean-architecture\\Store.Api\\Store.Api.csproj",
+        "projectPath": "d:\\projects\\clean-architecture\\Store.Api\\Store.Api.csproj",
         "packagesPath": "C:\\Users\\omare\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\clean-architecture\\Store.Api\\obj\\",
+        "outputPath": "d:\\projects\\clean-architecture\\Store.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
