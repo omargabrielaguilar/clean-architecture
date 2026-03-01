@@ -1,1 +1,16 @@
-GET http://localhost:5138
+GET http://localhost:5138/games
+
+###
+GET http://localhost:5138/games/3
+
+
+###
+POST http://localhost:5138/games
+Content-Type: application/json
+
+{
+  "name": "RAW GAME",
+  "genre": "Adventure",
+  "price": 59.99,
+  "releaseDate": "2024-01-01"
+}
